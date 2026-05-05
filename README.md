@@ -20,9 +20,9 @@ ros2 run ros_gz_bridge parameter_bridge /X3/gazebo/command/twist@geometry_msgs/m
 
 # Terminal 3 - Lancer le tracker
 ros2 run drone_tracker drone_controller
- trim.9CB0843D-AB3C-4FE2-BD7E-DB0B2EB7DAB0.MOV
+ 
 ```
-
+trim.9CB0843D-AB3C-4FE2-BD7E-DB0B2EB7DAB0.MOV
 ## Topics
 - `/X3/gazebo/command/twist` : commandes de vitesse du drone X3
 - `/model/x3/odometry` : position du drone X3
