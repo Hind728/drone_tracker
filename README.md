@@ -22,7 +22,7 @@ ros2 run ros_gz_bridge parameter_bridge /X3/gazebo/command/twist@geometry_msgs/m
 ros2 run drone_tracker drone_controller
  
 ```
-trim.9CB0843D-AB3C-4FE2-BD7E-DB0B2EB7DAB0.MOV
+https://github.com/user-attachments/ assets/3724b110-bc28-460f-8db0-21dc959fefa0
 ## Topics
 - `/X3/gazebo/command/twist` : commandes de vitesse du drone X3
 - `/model/x3/odometry` : position du drone X3
