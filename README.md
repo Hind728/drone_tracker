@@ -1,12 +1,12 @@
 # Drone Tracker - ROS 2 + Gazebo Sim
 
-Ce projet ROS 2 (Jazzy) simule un drone quadrotor X3 dans Gazebo Sim qui suit automatiquement un autre drone X4 et un cube rouge en temps reel.
+Ce projet ROS 2 (Jazzy) simule un drone quadrotor X3 dans Gazebo Sim qui suit automatiquement X4 et un cube rouge en temps reel.
 
 ## Description
 - Le drone X3 decolle automatiquement
 - Il detecte la position du drone X4 et du cube rouge
 - Il se dirige vers la cible et la suit en vol
-- Le cube rouge se deplace en cercle comme cible
+- Le drone se deplace en cercle 
 - Utilise le plugin MulticopterVelocityControl pour un vol stable
 - Monde base sur le fichier multicopter_velocity_control.sdf de Gazebo Sim
 
